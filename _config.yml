@@ -61,7 +61,7 @@ kramdown:
 
 # Gitalk
 gitalk:
-  enable: true    #是否开启Gitalk评论
+  enable: false    #是否开启Gitalk评论
   clientID: 793593f8f33c086d8daf                            #生成的clientID
   clientSecret: 5ab900839bc41eb500ed94b6e4c6f580b2f4cc9a    #生成的clientSecret
   repo: smilingK.github.io    #仓库名称
