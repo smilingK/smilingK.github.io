@@ -1,5 +1,5 @@
 # Site settings
-title: smiling^_^
+title: smilingk^_^
 SEOTitle: 微笑，面对生活！
 header-img: img/post-bg-desk.jpg
 email: 522135806@qq.com
@@ -61,8 +61,8 @@ kramdown:
 
 # Gitalk
 gitalk:
-  enable: true    #是否开启Gitalk评论
-  clientID: 93593f8f33c086d8daf                            #生成的clientID
+  enable: false    #是否开启Gitalk评论
+  clientID: 793593f8f33c086d8daf                            #生成的clientID
   clientSecret: 5ab900839bc41eb500ed94b6e4c6f580b2f4cc9a    #生成的clientSecret
   repo: smilingK.github.io    #仓库名称
   owner: smilingK    #github用户名
