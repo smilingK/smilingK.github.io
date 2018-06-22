@@ -3,7 +3,7 @@ layout:     post
 title:      插件化开发初探，VirtualAPK框架使用
 subtitle:   插件化开发初探，通过滴滴的VirtualAPK框架实现插件化的功能
 date:       2018-05-07
-author:     smiling
+author:     smilingK
 header-img: img/2018-05-07/44752772_xl.jpg
 catalog: true
 tags:
